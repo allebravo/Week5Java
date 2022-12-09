@@ -1,6 +1,6 @@
 
 public interface Logger {
-	void log (String str1);
-	void error(String str2);
+	public void log (String str1);
+	public void error(String str2);
 
 }
